@@ -303,6 +303,6 @@ padding-right: 200px;
   .password-list-container {
    flex-direction: column;
     align-items: flex-start;
-    padding-left: 30px;
+    padding-left: 10px;
   }
 }
