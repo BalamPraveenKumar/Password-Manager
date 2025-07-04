@@ -142,7 +142,7 @@ class PasswordManager extends Component{
                                         <div className="websitenameDiv">
                                             <label htmlFor="website"><img className="inputimages" src="https://assets.ccbp.in/frontend/react-js/password-manager-website-img.png"/></label>
 
-                                              <input placeholder="Enter Website Name" id="website" value={websitename} onChange={this.changewebsitename} className="website name"/>
+                                              <input placeholder="Enter Website Name" id="website" value={websitename} onChange={this.changewebsitename} className="website-name"/>
                                         </div>
 
                                         <div className="usernameDiv">
